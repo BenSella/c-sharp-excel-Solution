@@ -9,7 +9,7 @@ integrate file handling, object-oriented programming, and external libraries in 
 
 ## Project Architecture
 
-```bash
+```
 ExcelSolution
 ├── ExcelFiles
 │   ├── Example.xlsx               # Sample file for data extraction
