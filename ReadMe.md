@@ -2,7 +2,10 @@
 
 ## Project Overview
 
-**ExcelSolution** is a C# project demonstrating how to work with Excel files using the EPPlus library. This project allows users to extract data from Excel, manipulate it, and export the updated data back into a new Excel file. It provides a practical example of how to integrate file handling, object-oriented programming, and external libraries in a .NET application.
+**ExcelSolution** is a C# project demonstrating how to work with Excel files using the EPPlus 
+library. This project allows users to extract data from Excel, manipulate it, and export 
+the updated data back into a new Excel file. It provides a practical example of how to 
+integrate file handling, object-oriented programming, and external libraries in a .NET application.
 
 ### Key Features:
 - Extract data from an existing Excel file (`Example.xlsx`).
